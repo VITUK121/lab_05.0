@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VITUK\\source\\repos\\lab_05.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D74D88FF-F6DF-4F5F-A0A4-4891E16E2B81}|UnitTest_05.0\\UnitTest_05.0.vcxproj|C:\\Users\\VITUK\\source\\repos\\lab_05.0\\UnitTest_05.0\\UnitTest_05.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D74D88FF-F6DF-4F5F-A0A4-4891E16E2B81}|UnitTest_05.0\\UnitTest_05.0.vcxproj|solutionrelative:UnitTest_05.0\\UnitTest_05.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0C1DCA-C94C-409E-ADC9-C7A8417A7ACB}|lab_05.0\\lab_05.0.vcxproj|C:\\Users\\VITUK\\source\\repos\\lab_05.0\\lab_05.0\\lab_05.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B0C1DCA-C94C-409E-ADC9-C7A8417A7ACB}|lab_05.0\\lab_05.0.vcxproj|solutionrelative:lab_05.0\\lab_05.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest_05.0.cpp",
+              "DocumentMoniker": "C:\\Users\\VITUK\\source\\repos\\lab_05.0\\UnitTest_05.0\\UnitTest_05.0.cpp",
+              "RelativeDocumentMoniker": "UnitTest_05.0\\UnitTest_05.0.cpp",
+              "ToolTip": "C:\\Users\\VITUK\\source\\repos\\lab_05.0\\UnitTest_05.0\\UnitTest_05.0.cpp",
+              "RelativeToolTip": "UnitTest_05.0\\UnitTest_05.0.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-29T18:00:41.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab_05.0.cpp",
+              "DocumentMoniker": "C:\\Users\\VITUK\\source\\repos\\lab_05.0\\lab_05.0\\lab_05.0.cpp",
+              "RelativeDocumentMoniker": "lab_05.0\\lab_05.0.cpp",
+              "ToolTip": "C:\\Users\\VITUK\\source\\repos\\lab_05.0\\lab_05.0\\lab_05.0.cpp",
+              "RelativeToolTip": "lab_05.0\\lab_05.0.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-29T16:34:58.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
